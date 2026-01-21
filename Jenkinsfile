@@ -42,7 +42,7 @@ pipeline {
 
     post {
         success {
-            echo "✅ React app deployed successfully!"
+            echo "React app deployed successfully!"
         }
     }
 }

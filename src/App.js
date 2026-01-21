@@ -3,7 +3,7 @@ function App() {
     <div style={styles.page}>
       {/* Header */}
       <header style={styles.header}>
-        <h1 style={styles.title}>🚀 Maaz React CI/CD Dashboard</h1>
+        <h1 style={styles.title}>Maaz React CI/CD Dashboard</h1>
         <p style={styles.subtitle}>
           Deployed using <b>Jenkins + Docker</b> on Windows
         </p>
